@@ -43,7 +43,7 @@ Also note
 - there is evidence of increased renal failure
 - there is stronger evidence in children
 - tachyphylaxis occurs
-- [consider as rescue therapy for acute right ventricular failure following PE(http://www.ncbi.nlm.nih.gov/pubmed/16598645)
+- [consider as rescue therapy for acute right ventricular failure following PE](http://www.ncbi.nlm.nih.gov/pubmed/16598645)
 - inhaled prostacyclin as an alternative that is much easier to administer
 
 
