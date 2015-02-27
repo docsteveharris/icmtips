@@ -1,6 +1,6 @@
 {:: encoding="utf-8" /}
 
-# Infection
+# Renal physiology and pathology
 
 ## Renal pearls
 
