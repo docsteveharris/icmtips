@@ -67,3 +67,11 @@ Typical treatment regimes are 1mg/kg of methylprednisolone per day for at least 
 - [Meduri GU, Golden E, Freire AX et al. Methylprednisolone infusion in early severe ARDS: results of a randomized controlled trial. *Chest*. 2007;**131**:954-963.](http://dx.doi.org/10.1378/chest.06-2100)
 - [Meduri GU, Marik PE, Chrousos GP et al. Steroid treatment in ARDS: a critical appraisal of the ARDS network trial and the recent literature. *Intensive Care Med*. 2008;**34**:61-69.](http://dx.doi.org/10.1007/s00134-007-0933-3)
 
+
+## Weaning pearls
+
+- Try alternating periods of weaning with periods of cuff-down (with pressure support and PEEP) to give patients a voice, and a chance to re-learn their upper airway reflexes
+- When decannulating then step down to NIV and do not discharge without a follow-up package on the ward
+- PaCO2 Should not be allowed to rise; the tenet that if the pH is OK then ignore the PaCO2 is wrong. Don't use the permissive hypercapnoea argument when weaning; it's a sign of the patient not being ready, and there still being stuff that needs fixing. For example, nearly all patients on the Lane-Fox unit at GSTT, will be managed with a normal PaCO2.
+- Hyoscine is OK for secretions because it only really affects the upper airway, and therefore makes little difference to the viscosity and clearance of lower airway secretions
+

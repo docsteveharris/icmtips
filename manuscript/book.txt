@@ -5,6 +5,8 @@
 03_cardiovascular_pp.md
 04_infection_pp.md
 05_neurology_pp.md
+06_haematology_pp.md
+07_renal_pp.md
 09_miscellaneous.md
 09.1_reference_values.md
 09.2_useful_links.md
