@@ -15,6 +15,11 @@ The new Berlin definition replaced the 1994 American-European Consensus Conferen
     + 200mmHg (27kPa) = 235
     + 300mmHg (40kPa) = 315
 
+The main differences were from the 1994 definition were
+
+- the inclusion of PEEP
+- abandoning ALI (Acute Lung Injury) as a label
+
 
 ### References
 
