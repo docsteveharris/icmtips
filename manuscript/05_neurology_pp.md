@@ -13,3 +13,12 @@
 
 - http://what-when-how.com/neuroanaesthesia-and-neurointensive-care/intracranial-pressure-monitoring-and-imaging-part-3/
 - [Czosnyka M, Pickard JD. Monitoring and interpretation of intracranial pressure. *J Neurol Neurosurg Psychiatry*. 2004;**75**:813-821](http://jnnp.bmj.com/content/75/6/813.full)
+
+
+## What do I need to know about a lumbar drain?
+
+- Zero is set at the height of the insertion point
+- Set pressure to 10-20cm H2O
+- Maximum drainage rate is 20-30 ml/hr  which matches CSF production 
+- Should be removed within 48 hours
+- Indicated for supra renal aortic aneurysm repair 
