@@ -1,4 +1,4 @@
-A list of miscellaneous and otherwise unsorted tips.
+# Miscellaneous and unsorted tips
 
 ## What changed in the 2012 Berlin definition of ARDS?
 
@@ -7,7 +7,7 @@ The new Berlin definition replaced the 1994 American-European Consensus Conferen
 - exclude alternatives: cardiogenic and other causes of respiratory failure must have been excluded. Objective evidence of preserved cardiac function is required if there are no risk factors for ARDS.
 - demonstrate an acute course: new or worsened disease within a week
 - Bilateral radiographic changes: not otherwise explained
-- a low PF ratio with CPAP or PEEP {$$}\geq5cmH_{2}O{$$}
+- a low PF ratio with CPAP or PEEP {$$}\geq5cmH_{2}O{/$$}
     + Mild: PF ratio 200-300mmHg (27--40kPa)
     + Moderate: PF ratio 100-200 mmHg (13-27kPa)
     + Severe: PF ratio ≤100mmHg (13kPa)
