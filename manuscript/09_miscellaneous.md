@@ -1,3 +1,5 @@
+{:: encoding="utf-8" /}
+
 # Miscellaneous and unsorted tips
 
 ## What changed in the 2012 Berlin definition of ARDS?
@@ -19,6 +21,23 @@ The main differences were from the 1994 definition were
 
 - the inclusion of PEEP
 - abandoning ALI (Acute Lung Injury) as a label
+
+
+Testing en--dash and em---dash
+Testing superscript^1^ and subscript~2~ and others
+Checking >= doesn't work.
+
+≤
+LESS-THAN OR EQUAL TO
+Unicode: U+2264, UTF-8: E2 89 A4
+\U+2264
+&deg
+\u{2264}
+
+√
+SQUARE ROOT
+Unicode: U+221A, UTF-8: E2 88 9A
+
 
 
 ### References
