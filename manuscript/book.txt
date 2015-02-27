@@ -2,6 +2,9 @@
 01_introduction.md
 01.1_housekeeping.md
 02_respiratory_pp.md
+03_cardiovascular_pp.md
+04_infection_pp.md
+05_neurology_pp.md
 09_miscellaneous.md
 09.1_reference_values.md
 09.2_useful_links.md
