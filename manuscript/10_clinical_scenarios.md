@@ -12,3 +12,10 @@ Trials of therapeutic hypothermia (TH)
 - [TTM trial, 2013 NEJM](http://www.ncbi.nlm.nih.gov/pubmed?term=24237006): 939 patients after cardiac arrest had a similar range of outcomes in the control arm, and _no_ difference in outcomes with the TH (32-34C)
 
 Both trials achieved their temperature targets within 6--8 hours.
+
+### Other notes
+
+- metabolism decreases 7-10% per degree C cooled below 37C, but shivering will increase metabolism by 40-100%
+- Arrhythmia risk (VF/VT) increases below 28-30C
+- myocardial contractility often increases!
+- insulin resistance is common
