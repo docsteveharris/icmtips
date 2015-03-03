@@ -22,3 +22,16 @@
 - Maximum drainage rate is 20-30 ml/hr  which matches CSF production 
 - Should be removed within 48 hours
 - Indicated for supra renal aortic aneurysm repair 
+
+## Can you recommend any good references for learning about the EEG in neuro-critical care?
+
+Try this article in [Neurotherapies](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271154/)
+
+Important points from the article include
+
+- around 1/4 patients in critical care demonstrated siezure activity _after_ the first 24 hours of monitoring suggesting that prolonged, not snapshot, monitors should be considered
+- siezures are common after intra-cerebral and sub-arachnoid haemorrhage with rates between 10% and 30% quoted
+
+# Guidelines for the management of intra-cerebral haemorrhage
+
+See [Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association.](http://www.ncbi.nlm.nih.gov/pubmed/20651276)
