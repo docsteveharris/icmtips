@@ -19,3 +19,7 @@ Both trials achieved their temperature targets within 6--8 hours.
 - Arrhythmia risk (VF/VT) increases below 28-30C
 - myocardial contractility often increases!
 - insulin resistance is common
+
+## What are the most recent evidence based guidelines for acute pancreatitis (AP)?
+
+These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013.
