@@ -24,16 +24,13 @@ Both trials achieved their temperature targets within 6--8 hours.
 
 These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013. Severity is graded by the Atlanta revision (2013) which depends on the prescence, and duration of organ dysfunction.
 
-Mild
-
+**Mild**
 : No organ dysfunction (Modified Marshal Score)
 
-Moderate
-
+**Moderate**
 : Transient (< 48h) organ dysfunction
 
-Severe 
-
+**Severe** 
 : Persistent (> 48h) organ dysfunction
 
 
