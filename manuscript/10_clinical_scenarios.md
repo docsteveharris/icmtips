@@ -26,6 +26,7 @@ These come from the [American College of Gastroenterology](http://gi.org/guideli
 
 - severe AP is defined by organ dysfunction lasting more than 48 hours
 - early (within 24 hours) aggressive fluid resuscitation is recommended, but late fluids therapy should be moderated
-- Abdominal ultrasound should be performed in all patients, but cross-sectional imaging should be reserved for those patient where the diagnosis is in doubt, or where the condition is not improving
-- 
+- Abdominal ultrasound should be performed in all patients, but cross-sectional imaging should be reserved for those patient where the diagnosis is in doubt, or where the condition is not improving within the first 48-72 hours
+- Routine drainage of asymptomatic necrosis or pseudocysts is _not_ recommended; where drainage is performed then, where possible, it should be deferred by 4 weeks. This permits liquification, and formation of a wall around the collection.
+- Routine prophylactic antibiotics are _not_ recommended; where antibiotics are used, for infected necrosis, then the drug selected should have good tissue penetration
 
