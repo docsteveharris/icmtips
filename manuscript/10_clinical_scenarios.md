@@ -27,6 +27,8 @@ These come from the [American College of Gastroenterology](http://gi.org/guideli
 - severe AP is defined by organ dysfunction lasting more than 48 hours
 - early (within 24 hours) aggressive fluid resuscitation is recommended, but late fluids therapy should be moderated
 - Abdominal ultrasound should be performed in all patients, but cross-sectional imaging should be reserved for those patient where the diagnosis is in doubt, or where the condition is not improving within the first 48-72 hours
-- Routine drainage of asymptomatic necrosis or pseudocysts is _not_ recommended; where drainage is performed then, where possible, it should be deferred by 4 weeks. This permits liquification, and formation of a wall around the collection.
-- Routine prophylactic antibiotics are _not_ recommended; where antibiotics are used, for infected necrosis, then the drug selected should have good tissue penetration
+- Routine drainage of asymptomatic necrosis or pseudocysts is _not_ recommended; where drainage is performed then, where possible, it should be deferred by 4 weeks. This permits liquification, and formation of a wall around the collection. Minimally invasive techniques for drainage are recommended over open necrosectomy.
+- Routine prophylactic antibiotics are _not_ recommended; where antibiotics are used, for infected necrosis, then the drug selected should have good tissue penetration (carbapenems, quinolones, metronidazole). Ideally, a fine needle aspirate of the cyst should be performed to define the microbiology
+- ERCP should be performed within 24 hours for patients with AP and cholangitis; pancreatic stents and/or NSAIDs should be used to reduce the risk of post-ERCP pancreatitis
+- Enteral feeding should be started, even in severe AP. Parenteral feeding should be avoided. There is no evidence to favour nasojejunal (NJ) over nasogastric (NG) feeding.
 
