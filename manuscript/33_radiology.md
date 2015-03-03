@@ -1,5 +1,9 @@
 # Radiology
 
+## Background
+
+- fluoroscopy in theatre exposed staff to around 0.01mSv (milliSieverts) when lead aprons are _not_ worn whereas a chest x-ray delivers around 0.02mSv. A CT abdomen delivers 800-1000 times that dose (8-10mSv)  which is associated with a 1 in 2000-2500 lifetime cancer risk!
+
 ## Chest radiographs
 
 ### Basics
