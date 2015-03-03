@@ -22,7 +22,22 @@ Both trials achieved their temperature targets within 6--8 hours.
 
 ## What are the most recent evidence based guidelines for acute pancreatitis (AP)?
 
-These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013. The following points are noted:
+These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013. Severity is graded by the Atlanta revision (2013) which depends on the prescence, and duration of organ dysfunction.
+
+Mild
+
+: No organ dysfunction (Modified Marshal Score)
+
+Moderate
+
+: Transient (< 48h) organ dysfunction
+
+Severe 
+
+: Persistent (> 48h) organ dysfunction
+
+
+The following points are noted:
 
 - severe AP is defined by organ dysfunction lasting more than 48 hours
 - early (within 24 hours) aggressive fluid resuscitation is recommended, but late fluids therapy should be moderated
@@ -31,4 +46,6 @@ These come from the [American College of Gastroenterology](http://gi.org/guideli
 - Routine prophylactic antibiotics are _not_ recommended; where antibiotics are used, for infected necrosis, then the drug selected should have good tissue penetration (carbapenems, quinolones, metronidazole). Ideally, a fine needle aspirate of the cyst should be performed to define the microbiology
 - ERCP should be performed within 24 hours for patients with AP and cholangitis; pancreatic stents and/or NSAIDs should be used to reduce the risk of post-ERCP pancreatitis
 - Enteral feeding should be started, even in severe AP. Parenteral feeding should be avoided. There is no evidence to favour nasojejunal (NJ) over nasogastric (NG) feeding.
+
+
 
