@@ -2,6 +2,12 @@
 
 # Miscellaneous and unsorted tips
 
+## Distances from the nose and mouth for oral and nasal tubes
+
+- Do not insert an NG tube further than 65cm
+- The carina is roughly 30cm from the lips
+
+
 ## How do I manage anti-platelet therapy for a coronary stent?
 
 Because of their dependence on anti-platelet therapy, coronary stents can be very difficult to manage in the critically ill patient.
