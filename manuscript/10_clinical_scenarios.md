@@ -22,7 +22,7 @@ Both trials achieved their temperature targets within 6--8 hours.
 
 ## What are the most recent evidence based guidelines for acute pancreatitis (AP)?
 
-These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013.
+These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013. The following points are noted:
 
 - severe AP is defined by organ dysfunction lasting more than 48 hours
 - early (within 24 hours) aggressive fluid resuscitation is recommended, but late fluids therapy should be moderated
