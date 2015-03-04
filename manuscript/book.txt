@@ -1,16 +1,35 @@
-
+frontmatter.txt
+# Frontmatter
 01_introduction.md
-01.1_housekeeping.md
-02_respiratory_pp.md
-03_cardiovascular_pp.md
-04_infection_pp.md
-05_neurology_pp.md
-06_haematology_pp.md
-07_renal_pp.md
-07.1_liver_pp.md
-08.1_investigations.md
-09_miscellaneous.md
-09.1_reference_values.md
-09.2_useful_links.md
+
+mainmatter.txt
+# Housekeeping and general ICU tips
+11_housekeeping.md
+
+# Pathology and physiology by organ system
+# 20's
+
+21_respiratory_pp.md
+22_cardiovascular_pp.md
+23_infection_pp.md
+24_renal_pp.md
+25_neurology_pp.md
+26_haematology_pp.md
+
+# Other 'themes'
+# 30's
+
+31_clinical_scenarios.md
+32_investigations.md
+
+# Miscellaneous pearls
+# 40's
+40_pearls.md
+
+backmatter.txt
+# Backmatter
+91_reference_values.md
+92_useful_links.md
+
 
 
