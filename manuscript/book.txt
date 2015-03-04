@@ -15,16 +15,31 @@ mainmatter.txt
 24_renal_pp.md
 25_neurology_pp.md
 26_haematology_pp.md
+27_liver_pp.md
 
 # Other 'themes'
 # 30's
 
+31_ECG.md
+32_ABG.md
+33_radiology.md
+
+# Interventions
+# 40's
+
+41_ventilation.md
+42_cardiovascular_support.md
+43_antibiotics.md
+
+# Clincal scenarios
 31_clinical_scenarios.md
-32_investigations.md
+
+# Drugs
 
 # Miscellaneous pearls
-# 40's
-40_pearls.md
+# 80's
+
+80_pearls.md
 
 backmatter.txt
 # Backmatter

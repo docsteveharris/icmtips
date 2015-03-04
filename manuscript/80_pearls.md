@@ -2,6 +2,12 @@
 
 # Miscellaneous and unsorted tips
 
+## Anaphylaxis to N-acetylcysteine is overstated
+
+Severe reactions requiring discontinuation of the infusion occured in around 1% of patients.
+
+[Kerr F, Dawson A, Whyte IM et al. The Australasian Clinical Toxicology Investigators Collaboration randomized trial of different loading infusion rates of N-acetylcysteine. *Ann Emerg Med*. 2005;**45**:402-408.](http://dx.doi.org/10.1016/j.annemergmed.2004.08.040)
+
 ## Distances from the nose and mouth for oral and nasal tubes
 
 - Do not insert an NG tube further than 65cm

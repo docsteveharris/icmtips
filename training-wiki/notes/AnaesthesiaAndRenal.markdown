@@ -9,6 +9,7 @@ Metadata:
 - GFR<5ml/min: "End Stage Renal Failure"
 
 ## Pharmacokinetics
+
 - Hypoalbuminaemia: hence increased availability of protein bound drugs
 - Acidosis: hence incr availability of thiopentone (weak acid, pKa 7.6), propofol pKa 6-8.6??
 - Reduce doses of induction agents by 30%
@@ -17,11 +18,13 @@ Metadata:
 - Local anaesthetics: reduced duration, reduced Vd (therefore max safe dose 75% normal)
 
 ## Associated Pathology
+
 Underlying Cause: DM, HTN, Autoimmune, Chronic pyelonephritis
 10% CRF have Aortic Stenosis (ectopic Ca deposition) - endocarditis more common
 IHD common (2ndry HTN, hyperlipidaemia 2ndry decr lipoprotein lipase activity)
 
 # Pre-op
+
 - Anuric, oliguric, or polyuric? How much fluid can they handle
 - Current Fluid Status: (Best to wait 6hrs post dialysis b/c to allow fluid shifts to 'settle', and for heparin to pass)
 - Normal Hb 8-10g/l: Avoid transfusing above this as poorly tolerated (pulmonary oedema etc ppt if Hb>10)
@@ -35,6 +38,7 @@ IHD common (2ndry HTN, hyperlipidaemia 2ndry decr lipoprotein lipase activity)
 - Treat as immunosuppressed so maximum precautions for all invasive procedures
 
 ## Chronic Renal Failure
+
 - 5yr survival overall <50%
 - H+/K+ exchange across ECF/ICF so in acute acidosis 0.5mmol K increase for each 0.1 unit fall in pH
 - Hypertriglyceridaemia 2nd reduced lipoprotein lipase activity

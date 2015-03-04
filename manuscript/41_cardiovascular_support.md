@@ -1,6 +1,6 @@
 {:: encoding="utf-8" /}
 
-# Interventions
+# Cardiovascular support
 
 ## Balloon pumps
 

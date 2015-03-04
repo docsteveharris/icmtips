@@ -45,4 +45,31 @@ The following points are noted:
 - Enteral feeding should be started, even in severe AP. Parenteral feeding should be avoided. There is no evidence to favour nasojejunal (NJ) over nasogastric (NG) feeding.
 
 
+## How do you defend your approach to early feeding in acute pancreatitis?
+
+- early enteral feeding is recommended
+    - maintain gut barrier, minimise bacterial translocation
+    - avoid the complications of TPN
+    - 2010 metanalysis demonstrated reduced mortality, infections and need for surgery
+- nasojejunal tube feeding is preferred: need to place the tube beyond the ligament of Treitz 
+- semi-elemental feed should be considered if assume decreased production of pancreatic enzymes (note that the elemental feeds can produce diarrhoea)
+- fluid collections (cysts) are not a contra-indication but in some patients feeding may make pain or inflammation worse; if so, switch to TPN
+- do not provide TPN before 5 days (increased complications)
+
+### References
+
+- [Al-Omran M, Albalawi ZH, Tashkandi MF et al. Enteral versus parenteral nutrition for acute pancreatitis. *Cochrane Database Syst Rev*. 2010CD002837.](http://dx.doi.org/10.1002/14651858.CD002837.pub2)
+    - Cochrane systematic review
+    - 348 patients in 8 RCTs
+    - RR for mortality using EN was 0.5 (95%CI 0.28--0.91)
+    - similar (greater) in the subgroup with severe acute pancreatitis
+- [McClave SA, Martindale RG, Vanek VW et al. Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). *JPEN J Parenter Enteral Nutr*. 2009;**33**:277-316.](http://dx.doi.org/10.1177/0148607109335234)
+    - similar conclusions to Cochrane review for question of EN vs PN
+    - unable to find evidence comparing EN vs IV maintenance only
+    - very early PN probably harmful (i.e. wait a minimum of 5 days)
+
+
+
+
+
 

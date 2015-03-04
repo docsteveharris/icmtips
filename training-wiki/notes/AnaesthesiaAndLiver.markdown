@@ -46,6 +46,7 @@ Metadata:
 
 
 ## Postop Liver Dysfunction
+
 - Wide differential: Classify Pre/Intra/Post
 - Pre: Haemolysis (Transfusion related, Bypass etc), Gilbert's, Drugs & G6PD
 - Intra: Ischaemia, Toxic (Halothane, Antibiotics, NSAIDs etc)
@@ -56,6 +57,7 @@ Metadata:
 
 
 ## Pharmacokinetics
+
 - Decr 1st pass metabolism
 - Prolonged metabolism
 - Prolonged excretion of high MW drugs
@@ -65,6 +67,7 @@ Metadata:
 - Incr susceptibility to sedatives
 
 ## Fluid Resus
+
 - Chronic: avoid Na overload
 - Acute: avoid hyponatraemia, use N/Saline etc esp wrt to incr ICP (aim Na 145-150)
 - Liver failure see high NH3 levels - acts as resp stimulant hence produce resp alkalosis
