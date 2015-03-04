@@ -20,55 +20,42 @@ Both trials achieved their temperature targets within 6--8 hours.
 - myocardial contractility often increases!
 - insulin resistance is common
 
-## What are the most recent evidence based guidelines for acute pancreatitis (AP)?
-
-These come from the [American College of Gastroenterology](http://gi.org/guideline/acute-pancreatitis/) in 2013. Severity is graded by the Atlanta revision (2013) which depends on the prescence, and duration of organ dysfunction.
-
-**Mild**
-: No organ dysfunction (Modified Marshal Score)
-
-**Moderate**
-: Transient (< 48h) organ dysfunction
-
-**Severe** 
-: Persistent (> 48h) organ dysfunction
+## How to diagnose brain stem death?
 
 
-The following points are noted:
+### Preconditions
 
-- severe AP is defined by organ dysfunction lasting more than 48 hours
-- early (within 24 hours) aggressive fluid resuscitation is recommended, but late fluids therapy should be moderated
-- Abdominal ultrasound should be performed in all patients, but cross-sectional imaging should be reserved for those patient where the diagnosis is in doubt, or where the condition is not improving within the first 48-72 hours
-- Routine drainage of asymptomatic necrosis or pseudocysts is _not_ recommended; where drainage is performed then, where possible, it should be deferred by 4 weeks. This permits liquification, and formation of a wall around the collection. Minimally invasive techniques for drainage are recommended over open necrosectomy.
-- Routine prophylactic antibiotics are _not_ recommended; where antibiotics are used, for infected necrosis, then the drug selected should have good tissue penetration (carbapenems, quinolones, metronidazole). Ideally, a fine needle aspirate of the cyst should be performed to define the microbiology
-- ERCP should be performed within 24 hours for patients with AP and cholangitis; pancreatic stents and/or NSAIDs should be used to reduce the risk of post-ERCP pancreatitis
-- Enteral feeding should be started, even in severe AP. Parenteral feeding should be avoided. There is no evidence to favour nasojejunal (NJ) over nasogastric (NG) feeding.
+1. Apneoic patient on ventilator
+2. Structural cause of brain injury (trauma or haemorrhage)
+3. Reversible causes excluded: endocrine, metabolic and drugs (Na<160, T>34
 
+### Testing
 
-## How do you defend your approach to early feeding in acute pancreatitis?
+- Who? Not part of transplant team, 1 consultant and one doctor >5yr registered
+- When? >6hrs after coma onset or 24hrs post ROSC if cardiac arrest causal
+- Two tests needed but time inbetween not specified
 
-- early enteral feeding is recommended
-    - maintain gut barrier, minimise bacterial translocation
-    - avoid the complications of TPN
-    - 2010 metanalysis demonstrated reduced mortality, infections and need for surgery
-- nasojejunal tube feeding is preferred: need to place the tube beyond the ligament of Treitz 
-- semi-elemental feed should be considered if assume decreased production of pancreatic enzymes (note that the elemental feeds can produce diarrhoea)
-- fluid collections (cysts) are not a contra-indication but in some patients feeding may make pain or inflammation worse; if so, switch to TPN
-- do not provide TPN before 5 days (increased complications)
+- How?
 
-### References
+    1. CN2 & 3: Pupillary reflexes
+    2. CNVa and VII: No corneal reflex
+    3. CNVII: No  motor response in cranial nerve region (i.e. facial) to peripheral or central pain; Spinal reflex movements allowed
+    4. CNIII,IV, & VI & CNVIII: Oculo-vestibular: 50ml ice cold water, observe for 1 minute after
+    5. CNIX & X: Suction catheter to pharynx and trachea
+    6. Respiratory Centres: 5min 100% preox; 10min apnoea to PaCO2>6.7; Maintain O2 via suction catheter in ETT with >250ml/min O2 (new guidelines will say pH<7.35 too)
 
-- [Al-Omran M, Albalawi ZH, Tashkandi MF et al. Enteral versus parenteral nutrition for acute pancreatitis. *Cochrane Database Syst Rev*. 2010CD002837.](http://dx.doi.org/10.1002/14651858.CD002837.pub2)
-    - Cochrane systematic review
-    - 348 patients in 8 RCTs
-    - RR for mortality using EN was 0.5 (95%CI 0.28--0.91)
-    - similar (greater) in the subgroup with severe acute pancreatitis
-- [McClave SA, Martindale RG, Vanek VW et al. Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). *JPEN J Parenter Enteral Nutr*. 2009;**33**:277-316.](http://dx.doi.org/10.1177/0148607109335234)
-    - similar conclusions to Cochrane review for question of EN vs PN
-    - unable to find evidence comparing EN vs IV maintenance only
-    - very early PN probably harmful (i.e. wait a minimum of 5 days)
+Time of death is documented as first test
 
 
+### Notes
+
+- DCD (donation after cardiac death) Non-Heart Beating Donor Guidance (kidneys, lungs, livers, corneas);
+    - warm ischaemia time is problematic: types of donor 'awaiting cardiac arrest' commonest (ie icu patients where treatment is being withdrawn but who don't make brainstem death criteria);
+    - 5mins after arrest confirm death - if death is not rapid then organ donation wil not be possible
+Contraindications to organ donation
+- HIV, nvCJD
+- Malignancy except primary brain tumours
+- Patient refusal
 
 
 

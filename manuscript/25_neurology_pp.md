@@ -2,8 +2,6 @@
 
 # Neuro-critical care physiology and pathology
 
-
-
 ## Sub-arachnoid haemorrhage
 
 A list of evidence based guidance
@@ -42,6 +40,6 @@ Important points from the article include
 - siezures are common after intra-cerebral, sub-arachnoid haemorrhage, and hypoxic-ischaemic encephalopathy with rates between 10% and 30% quoted; rates are lower (5%) following cerebral infarcts. Regardless of the aetiology, the greater the severity, the greater the chance of siezures
 - around 1 in 3 patients develop non-convulsive status epilepticus (NCSE) after the termination of the convulsive form
 
-# Guidelines for the management of intra-cerebral haemorrhage
+## Guidelines for the management of intra-cerebral haemorrhage
 
 See [Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association.](http://www.ncbi.nlm.nih.gov/pubmed/20651276)

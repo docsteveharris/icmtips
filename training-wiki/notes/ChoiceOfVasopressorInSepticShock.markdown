@@ -5,6 +5,7 @@ Last Accessed: 2013-12-29 23:46:09 +0000
 Times Accessed: 0
 Tags: icm, rx, utdol
 Metadata: 
+
 Numerous trials have compared one vasopressor to another in septic shock. Most of the comparisons have found no difference in mortality, length of stay in the ICU, or length of stay in the hospital [51]. These trials included norepinephrine versus phenylephrine [52], norepinephrine versus vasopressin [53-55], norepinephrine versus terlipressin [35,56], norepinephrine versus epinephrine [57], and vasopressin versus terlipressin [58].
 
 In contrast, a meta-analysis of six randomized trials (1408 patients) found increased mortality among patients who received dopamine during septic shock compared to those who received norepinephrine [11,28,48,59-62]. Patients who received dopamine had a higher 28-day mortality rate than patients who received norepinephrine (54 versus 49 percent, relative risk 1.12, 95% CI 1.01-1.20). Although the causes of death in the two groups were not compared, arrhythmic events were two times more common with dopamine than norepinephrine. These findings were supported by another meta-analysis [63].

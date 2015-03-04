@@ -16,6 +16,7 @@ mainmatter.txt
 25_neurology_pp.md
 26_haematology_pp.md
 27_liver_pp.md
+28_gastrointestinal_pp.md
 
 # Other 'themes'
 # 30's

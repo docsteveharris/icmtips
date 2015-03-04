@@ -2,6 +2,16 @@
 
 # Haematology physiology and pathology
 
+## What is the ideal haemoglobin level?
+
+What is the minimum Hb necessary? 
+
+- Heart does not become ischaemia/anaerobic until Hb<3.5 assuming normal coronaries and perfusion pressures/work (i.e. can bleed fit and healthy down to Hb 3.5.  
+- But there are negative effects at low Hb: i.e. Patients with CCF "clinically" better with Hb>10; Hip fracture patients walk further with higher Hb; Elite athletes (aerobic) perform better with higher Hct.  DO2 is clearly rate limiting in certain situations, and a higher Hb is desirable if not essential.
+- Methods to raise/preserve Hb: 
+    - ICU (Webb blood sampling, haemolysis, haemorrhage etc: average loss per admission 2-3 units); TNFα switches off bone marrow; 
+    - [EPO ineffective in critical illness](http://www.ncbi.nlm.nih.gov/pubmed/24273484)
+
 ## Quickly summarise multiple myeloma for a medical student
 
 ### Clinical

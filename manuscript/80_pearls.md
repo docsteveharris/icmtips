@@ -51,3 +51,10 @@ via Quyyumi, Brit Heart J, 1986
 
 LMAs designed to require a small amount of downward pressure so tip sits in oesophageal sphincter and forms seal, ideally then tape LMAs don't tie but note the LMA supreme has a lip designed so that tying pushes the LMA down and improves seal.
 
+## nt-proBNP does not diagnosis heart failure in patients with sepsis
+
+Elevated nt-proBNP is seen in both patients with septic shock, and in those with acute heart failure.
+
+[Rudiger A, Gasser S, Fischler M et al. Comparable increase of B-type natriuretic peptide and amino-terminal pro-B-type natriuretic peptide levels in patients with severe sepsis, septic shock, and acute heart failure. *Crit Care Med*. 2006;**34**:2140-2144.](http://dx.doi.org/10.1097/01.CCM.0000229144.97624.90)
+
+
