@@ -1,0 +1,22 @@
+Title: Staphylococcus
+Timestamp: 2014-02-12 15:41:29 +0000
+Created: 2014-02-12 15:40:43 +0000
+Last Accessed: 2014-02-12 15:40:43 +0000
+Times Accessed: 0
+Tags: 
+Metadata: 
+# Panton-Valentine leukocidin
+
+Panton-Valentine leukocidin (PVL) was among the staphylococcal toxins first described in the 1930s by investigators seeking targets for development of antisera in an era prior to therapeutic antimicrobials or staphylococcal penicillin resistance [9,10]. These toxins included leukocidins (destructive for phagocytes), hemolysins, necrotoxins (necrotic when injected subcutaneously), and lethal toxin (fatal for rabbits after intravenous injection) [9].
+
+PVL is a cytotoxin that causes leukocyte destruction and tissue necrosis; it is encoded by genes lukS-PV and lukF-PV (together, the two components are referred to as lukSF-PV) [11]. The genes are present in many strains with one of the mobile genetic elements that carry the methicillin resistance gene, staphylococcal cassette chromosome mec (SCCmec) type IV and V (CA-MRSA strains), although they are seldom present among SCCmec types I, II, and III (HA-MRSA strains) [12-20]. Although uncommon, the PVL is also present in some methicillin-susceptible strains of S. aureus [21-25]. PVL-containing S. aureus has been most frequently associated with soft tissue infection and necrotizing pneumonia [2,26].
+
+There is a strong epidemiologic association between skin and soft tissue infections and PVL production by the MRSA strain USA300 [27]. USA300 refers to the strain's pulse field gel electrophoresis pattern; this pattern is the most common among US MRSA isolates [28]. In addition, USA300 contains staphylococcal cassette chromosome (SCCmec) type IV, which is relatively short (about 20 kb), and, as a result, is capable of rapid horizontal spread among strains of staphylococci.
+
+Among 320 patients with soft tissue infections presenting to emergency departments in 11 US cities in 2004, MRSA was the predominant pathogen (78 percent of isolates), and 98 percent of these were USA300 [27]. Nearly all of the USA300 isolates contained SCCmec type IV and the lukSF-PV genes encoding PVL, whereas genes for common staphylococcal enterotoxins and toxic shock syndrome were seldom present. Subsequently, both MRSA and MSSA USA300 PVL-positive strains were noted among 843 patients admitted to a large public hospital in Los Angeles in 2005, but there were no reliable epidemiologic factors to distinguish those with CA-MRSA from those with CA-MSSA [29]. (See "Epidemiology of methicillin-resistant Staphylococcus aureus infection in adults".)
+
+Inevitably, MRSA isolates elaborating PVL have also spread to hospitalized patients causing nosocomial infections. Among 37 clinical MRSA isolates at a veterans hospital, for example, 60 percent were USA300 PVL positive [24]. The strain has also spread to several countries on various continents [13,30].
+
+Although PVL has a strong epidemiologic association with community-associated MRSA infections, its role in the pathogenesis and spread of infection is controversial [14,31-35]. The most compelling clinical data has been the association of PVL with necrotizing pneumonia, particularly in the setting of post-influenza respiratory infections [16,17]. A rabbit model of necrotizing pneumonia demonstrated that PVL plays a critical role in infection [36]. The authors hypothesized that, in the presence of a sufficient number of bacteria, PVL is produced, resulting in the activation of PMNS and macrophages with the consequent release of inflammatory cytokines. In addition, the PVL lyses PMNs causing the release of granules and proteolytic enzymes.
+
+In other settings, the presence of PVL may not be as important. Among 109 patients with MRSA hospital-acquired pneumonia and ventilator-acquired pneumonia (including PVL+ strains in 27 percent of cases), the severity of disease and clinical outcome was not influenced by the presence of the PVL gene [37]. Expression of the PVL gene may be variably in different settings. This was illustrated in an analysis of 31 S. aureus strains collected from patients with infections of varying severity; the quantity of PVL produced in vitro did not correlate with severity of infection [38].

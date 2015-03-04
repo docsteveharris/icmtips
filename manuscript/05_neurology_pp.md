@@ -2,6 +2,15 @@
 
 # Neuro-critical care physiology and pathology
 
+## Which patients need ICP monitors?
+
+- GCS<8 _and_ an abnormal CT but especially if 
+    - young (age<40)
+    - motor posturing
+    - hypotensive
+
+ICP monitoring RCT Chesnut NEJM 2012: 324 patients, 5 South American hospitals, no harm demonstrated even though no experience with ICP monitors
+
 ## Describe the waveform seen on an ICP monitor
 
 - The waveform should look like normal arterial trace with additional upstroke (P2) between systolic peak (P1) and dicrotic notch (P3); this is the reflected pressure wave from the non compliant skull and should be lower than P1

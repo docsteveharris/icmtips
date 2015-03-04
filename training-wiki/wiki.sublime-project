@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"wiki.sublime-project"
+			],
+			"folder_exclude_patterns":
+			[
+				"tmp"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/steve/aor/clinical"
+		}
+	]
+}

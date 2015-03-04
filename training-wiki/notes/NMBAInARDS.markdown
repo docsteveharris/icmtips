@@ -1,0 +1,27 @@
+Title: NMBAInARDS
+Timestamp: 2014-03-07 00:36:09 +0000
+Created: 2014-03-07 00:34:45 +0000
+Last Accessed: 2014-03-07 00:34:45 +0000
+Times Accessed: 0
+Tags: clinical, rx, utdol
+Metadata: 
+Although it is widely recognized that neuromuscular blockade can have desirable effects (improves oxygenation [28]) and undesirable effects (prolonged neuromuscular weakness [29]) in patients with ARDS, the impact of these competing effects on patient-important outcomes has remained unclear. This uncertainty was addressed by a multicenter trial that randomly assigned 340 patients with ARDS to receive cisatracurium besylate or placebo by continuous infusion for 48 hours [30]. At the time of enrollment, all of the patients had been mechanically ventilated using low tidal volume ventilation and had a PaO2/FiO2 ratio of <150 mmHg on a PEEP of ≥5 cm H2O for less than 48 hours. Both groups were deeply sedated to a Ramsay sedation score of 6 (no response to glabellar tap). Patients treated with cisatracurium besylate had non-statistically significant lower crude 90-day, 28-day, hospital, and ICU mortality rates compared to the placebo group. Following a pre-specified statistical plan, the authors adjusted for baseline differences in the PaO2/FiO2, SAPS II severity score, and plateau airway pressure, and found a statistically significant decrease in 90-day mortality in patients treated with cisatracurium besylate (HR 0.68, 95% CI 0.48-0.98). The beneficial effects on 90-day mortality were limited to patients who presented with a PaO2/FiO2 ratio of less than 120 mm Hg. Patients treated with cisatracurium besylate also had significantly more ventilator-free days during the first 28 and 90 days (defined as the number of days since successful weaning from mechanical ventilation) and were significantly less likely to experience barotrauma. There was no difference in the frequency of ICU-acquired neuromuscular weakness.
+
+We believe that these findings need to be replicated before neuromuscular blockade becomes part of the routine management of patients with early, severe ARDS. Until then, the body of evidence suggests that the administration of short-term (up to 48 hours) neuromuscular blockade to patients with ARDS who have severe gas exchange abnormalities (eg, PaO2/FiO2 ≤120 mmHg) is probably safe and potentially beneficial. The neuromuscular blocking agents are discussed in detail separately. (See "Use of neuromuscular blocking medications in critically ill patients".)
+
+# Abstract
+
+30
+TI
+Neuromuscular blockers in early acute respiratory distress syndrome.
+AU
+Papazian L, Forel JM, Gacouin A, Penot-Ragon C, Perrin G, Loundou A, Jaber S, Arnal JM, Perez D, Seghboyan JM, Constantin JM, Courant P, Lefrant JY, Guérin C, Prat G, Morange S, Roch A, ACURASYS Study Investigators
+SO
+N Engl J Med. 2010;363(12):1107.
+ 
+BACKGROUND: In patients undergoing mechanical ventilation for the acute respiratory distress syndrome (ARDS), neuromuscular blocking agents may improve oxygenation and decrease ventilator-induced lung injury but may also cause muscle weakness. We evaluated clinical outcomes after 2 days of therapy with neuromuscular blocking agents in patients with early, severe ARDS.
+METHODS: In this multicenter, double-blind trial, 340 patients presenting to the intensive care unit (ICU) with an onset of severe ARDS within the previous 48 hours were randomly assigned to receive, for 48 hours, either cisatracurium besylate (178 patients) or placebo (162 patients). Severe ARDS was defined as a ratio of the partial pressure of arterial oxygen (PaO2) to the fraction of inspired oxygen (FIO2) of less than 150, with a positive end-expiratory pressure of 5 cm or more of water and a tidal volume of 6 to 8 ml per kilogram of predicted body weight. The primary outcome was the proportion of patients who died either before hospital discharge or within 90 days after study enrollment (i.e., the 90-day in-hospital mortality rate), adjusted for predefined covariates and baseline differences between groups with the use of a Cox model.
+RESULTS: The hazard ratio for death at 90 days in the cisatracurium group, as compared with the placebo group, was 0.68 (95% confidence interval [CI], 0.48 to 0.98; P=0.04), after adjustment for both the baseline PaO2:FIO2 and plateau pressure and the Simplified Acute Physiology II score. The crude 90-day mortality was 31.6% (95% CI, 25.2 to 38.8) in the cisatracurium group and 40.7% (95% CI, 33.5 to 48.4) in the placebo group (P=0.08). Mortality at 28 days was 23.7% (95% CI, 18.1 to 30.5) with cisatracurium and 33.3% (95% CI, 26.5 to 40.9) with placebo (P=0.05). The rate of ICU-acquired paresis did not differ significantly between the two groups.
+CONCLUSIONS: In patients with severe ARDS, early administration of a neuromuscular blocking agent improved the adjusted 90-day survival and increased the time off the ventilator without increasing muscle weakness. (Funded by Assistance Publique-Hôpitaux de Marseille and the Programme Hospitalier de Recherche Clinique Régional 2004-26 of the French Ministry of Health; ClinicalTrials.gov number, NCT00299650.)
+AD
+Assistance Publique-Hôpitaux de Marseille Unitéde Recherche sur les Maladies Infectieuses et Tropicales Emergentes, Centre National de la Recherche Scientifique-UnitéMixte de Recherche 6236, Universitéde la Méditerranée Aix-Marseille II, Marseille, France. laurent.papazian@ap-hm.fr

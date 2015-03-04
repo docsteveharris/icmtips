@@ -1,0 +1,1601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"facet",
+				"facet_grid"
+			],
+			[
+				"predic",
+				"predict_count_t_AND_h"
+			],
+			[
+				"example",
+				"example_text"
+			],
+			[
+				"icna",
+				"icnarc0"
+			],
+			[
+				"icu",
+				"icu_accept"
+			],
+			[
+				"vccm",
+				"vccmds1"
+			],
+			[
+				"yhat",
+				"yhat_2D0"
+			],
+			[
+				"eq",
+				"eq_2"
+			],
+			[
+				"m.sb",
+				"m.spbp.accept"
+			],
+			[
+				"room",
+				"room_cmp"
+			],
+			[
+				"recom",
+				"recommend"
+			],
+			[
+				"icu_",
+				"icu_accept"
+			],
+			[
+				"early",
+				"early4"
+			],
+			[
+				"table",
+				"tables"
+			],
+			[
+				"mx.",
+				"m.xt.fmt"
+			],
+			[
+				"m.xt",
+				"m.xt.eform"
+			],
+			[
+				"age",
+				"age_k"
+			],
+			[
+				"icn",
+				"icnarc0_c"
+			],
+			[
+				"icnarc",
+				"icnarc0_c"
+			],
+			[
+				"pati",
+				"patients_perhesadmx"
+			],
+			[
+				"cmp",
+				"cmp_beds_max_c"
+			],
+			[
+				"hes_emer",
+				"hes_emergx_c"
+			],
+			[
+				"geom_err",
+				"geom_errorbar"
+			],
+			[
+				"v_ccm",
+				"v_ccmds_rec"
+			],
+			[
+				"v_cc",
+				"v_ccmds"
+			],
+			[
+				"visit",
+				"visit_tod_nf"
+			],
+			[
+				"m.sp",
+				"m.spbp.q"
+			],
+			[
+				"wf",
+				"wdf.q"
+			],
+			[
+				"dela",
+				"delayed_referral"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"tt.",
+				"tdt.gg"
+			],
+			[
+				"occupan",
+				"occupancy.stata.data"
+			],
+			[
+				"units",
+				"units.stata.data"
+			],
+			[
+				"working",
+				"working.stata.data"
+			],
+			[
+				"week",
+				"weekend"
+			],
+			[
+				"deci",
+				"decision.simple"
+			],
+			[
+				"Gen",
+				"Genito-urinary"
+			],
+			[
+				"sepsi",
+				"sepsis.clean"
+			],
+			[
+				"t1",
+				"t1.results"
+			],
+			[
+				"lev",
+				"level"
+			],
+			[
+				"stra",
+				"strata.rows"
+			],
+			[
+				"t1.c",
+				"t1.catvars.results"
+			],
+			[
+				"str",
+				"strata"
+			],
+			[
+				"setnames",
+				"setnames"
+			],
+			[
+				"data.ta",
+				"dcast.data.table"
+			],
+			[
+				"all",
+				"all_obs"
+			],
+			[
+				"t1.wi",
+				"t1.wide.raw"
+			],
+			[
+				"tabl",
+				"table1.file"
+			],
+			[
+				"t1.",
+				"t1.results.byvarname"
+			],
+			[
+				"t1.res",
+				"t1.results.byvarname"
+			],
+			[
+				".SD",
+				".SDcols"
+			],
+			[
+				"miss",
+				"miss.p"
+			],
+			[
+				"norm",
+				"normal"
+			],
+			[
+				"dist",
+				"distribution"
+			],
+			[
+				"va",
+				"vars.strata"
+			],
+			[
+				"cols",
+				"cols_all_order"
+			],
+			[
+				"vars.",
+				"vars.strata"
+			],
+			[
+				".S",
+				".SDcols"
+			],
+			[
+				"install",
+				"install.packages"
+			],
+			[
+				"cate",
+				"categorical"
+			],
+			[
+				"var",
+				"vars.strata"
+			],
+			[
+				"t1.contv",
+				"t1.contvars.results"
+			],
+			[
+				"t1.cont",
+				"t1.contvars.results"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"this",
+				"this_dt"
+			],
+			[
+				"vars",
+				"vars.strata"
+			],
+			[
+				"t1.con",
+				"t1.contvars.results"
+			],
+			[
+				"strat",
+				"strata.var.get"
+			],
+			[
+				"strata",
+				"strata_as_string"
+			],
+			[
+				"t1.cat",
+				"t1.catvars.results"
+			],
+			[
+				"paper",
+				"paper-spotearly.stata.data"
+			],
+			[
+				"rx",
+				"any_rxsupp"
+			],
+			[
+				"anr",
+				"any_rxsupp"
+			],
+			[
+				"as.",
+				"as.logical"
+			],
+			[
+				"ora",
+				"organ_support"
+			],
+			[
+				"orgna",
+				"organ_support"
+			],
+			[
+				"new",
+				"newvar"
+			],
+			[
+				"if",
+				"ifelse"
+			],
+			[
+				"sites",
+				"sites_visits"
+			],
+			[
+				"sit",
+				"sites_visits"
+			],
+			[
+				"teaching",
+				"teaching_hosp"
+			],
+			[
+				"teachin",
+				"teaching_hosp"
+			],
+			[
+				"teac",
+				"teaching_hosp"
+			],
+			[
+				"wd",
+				"wd_all"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"beds",
+				"beds_none"
+			],
+			[
+				"dead",
+				"dead_icu"
+			],
+			[
+				"conf",
+				"conf_outcome"
+			],
+			[
+				"yu",
+				"yulosd"
+			],
+			[
+				"out",
+				"out_of_hours"
+			],
+			[
+				"age80",
+				"age80m"
+			],
+			[
+				"ims",
+				"ims_delta"
+			],
+			[
+				"ward",
+				"ward_death"
+			],
+			[
+				"war",
+				"ward_death"
+			],
+			[
+				"eal",
+				"early1delay0"
+			],
+			[
+				"ea",
+				"early4"
+			],
+			[
+				"e",
+				"early4"
+			],
+			[
+				"up",
+				"up24"
+			],
+			[
+				"up2",
+				"up24"
+			],
+			[
+				"rifU",
+				"rifU_no_adj"
+			],
+			[
+				"aki",
+				"aki_cr_not_ur1"
+			],
+			[
+				"pn",
+				"png_pixel_width"
+			],
+			[
+				"urin",
+				"urin24_below300"
+			],
+			[
+				"ur",
+				"urin24_below300"
+			],
+			[
+				"eth",
+				"ethnicBlack"
+			],
+			[
+				"n",
+				"n_log2"
+			],
+			[
+				"pc",
+				"pcr999"
+			],
+			[
+				"l",
+				"power_list"
+			],
+			[
+				"rug",
+				"rugcommand"
+			],
+			[
+				"grap",
+				"graphregion"
+			],
+			[
+				"heat",
+				"heat_rrt"
+			],
+			[
+				"rrt",
+				"rrt_risk"
+			],
+			[
+				"no",
+				"noextend"
+			],
+			[
+				"cre",
+				"creatCut"
+			],
+			[
+				"crea",
+				"creatCut"
+			],
+			[
+				"creat",
+				"creatRatioCat"
+			],
+			[
+				"u_",
+				"u_midpoints"
+			],
+			[
+				"c_",
+				"c_midpoints"
+			],
+			[
+				"est",
+				"estimates"
+			],
+			[
+				"cm_uni",
+				"cm_uni_50"
+			],
+			[
+				"Iup",
+				"Iup24__2"
+			],
+			[
+				"ur_p",
+				"ur_powers"
+			],
+			[
+				"hist",
+				"histogram_urine24"
+			],
+			[
+				"um",
+				"um_uni_xb"
+			],
+			[
+				"cm",
+				"cm_uni_xb"
+			],
+			[
+				"de",
+				"depvar"
+			],
+			[
+				"pw",
+				"power_list"
+			],
+			[
+				"word",
+				"wordcount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ma",
+				"Marked"
+			],
+			[
+				"vin",
+				"Vintageous: Reset"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"vn",
+				"Vintageous: Reset"
+			],
+			[
+				"emacs",
+				"Table Editor: Set table syntax 'EmacsOrgMode' for current view"
+			],
+			[
+				"mul",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"tabl",
+				"Table Editor: Set table syntax 'EmacsOrgMode' for current view"
+			],
+			[
+				"emac",
+				"Build: Pandown: Emacs Org-Mode"
+			],
+			[
+				"table",
+				"Table Editor: Set table syntax 'Simple' for current view"
+			],
+			[
+				"res",
+				"Vintageous: Reset"
+			],
+			[
+				"pand",
+				"Table Editor: Set table syntax 'Pandoc' for current view"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rmd",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"merg",
+				"Sublimerge: Compare Foremost Views"
+			],
+			[
+				"gitlog",
+				"Git: Log"
+			],
+			[
+				"merge",
+				"Sublimerge: Compare Foremost Views"
+			],
+			[
+				"sub",
+				"Sublimerge"
+			],
+			[
+				"subl",
+				"Sublimerge"
+			],
+			[
+				"ab",
+				"Abacus: align selection"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"aba",
+				"Abacus: align selection"
+			],
+			[
+				"abac",
+				"Abacus: align selection"
+			],
+			[
+				"rmar",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"rma",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"RMA",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"view",
+				"File: New View into File"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"mark",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"quic",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"ali",
+				"Abacus: align selection"
+			],
+			[
+				"gitt",
+				"Git: Add Tag"
+			],
+			[
+				"gitqc",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"gitquc",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"gitq",
+				"Git: Quick Add"
+			],
+			[
+				"gitlo",
+				"Git: Quick Log Current File"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"marked",
+				"Marked"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"aca",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"rex",
+				"Set Syntax: R Extended"
+			],
+			[
+				"acad",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"rext",
+				"Set Syntax: R Extended"
+			],
+			[
+				"r mark",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"rbox",
+				"R-Box Application"
+			],
+			[
+				"alig",
+				"Abacus: align selection"
+			],
+			[
+				"synrma",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"rmark",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"gitin",
+				"Git: Init"
+			],
+			[
+				"syntaxmark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"syntmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"line",
+				"TextCommands: Line Length"
+			],
+			[
+				"text",
+				"TextCommands: Line Length"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"stat",
+				"Set Syntax: stata"
+			],
+			[
+				"r",
+				"SublimeREPL: R"
+			],
+			[
+				"spac",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"syntax r",
+				"Set Syntax: R"
+			],
+			[
+				"rene",
+				"File: Rename"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"tod",
+				"Show TODOs: Open files only"
+			],
+			[
+				"to",
+				"Show TODOs: Open files only"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pacre",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/steve/usr/github/ficm-tips/icmtips.sublime-project",
+		"/Users/steve/aor/p-academic/_presentations/150304_MAS Merv lab meeting - stats talk/observational_stats.md",
+		"/Users/steve/aor/project-training/pgc-maths/math_probability/assignments/p-ass0-answers.rmd",
+		"/Users/steve/aor/project-training/pgc-maths/math_methods/readme.md",
+		"/Users/steve/aor/project-training/pgc-maths/math_probability/readme.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook_141014.R",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/an_describe_ind_vars.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.Rproj.user/802F9118/sdb/prop/INDEX",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_biprobit_early4.do",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Sublimerge.sublime-settings",
+		"/Users/steve/aor/project-academic/paper-spotearly/local/lib_phd/dictionary_fields.yml",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_postflight_plus.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_preflight.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_table1_all.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_table1_occupancy_effects.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_icu_recommend.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_ims_delta.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_icu_accept.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_linear_early.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/results_spotearly.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/results_spotearly.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/paper-spotearly_text.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/paper-scratch.rmd",
+		"/Users/steve/Dropbox/nvAlt/Aram and the admission policy at st patricks school.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/_sendtext_cmd_log.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/paper-spotearly_captions.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/sublime2stata.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_icu_early4.R",
+		"/var/folders/6_/ff2775ts71ndh9qbcpm26wlr0000gn/T/com.freron.MailMate/edit/627864/message.eml.markdown",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_occupancy_effects.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_occupancy24.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook_table1.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_all_compare.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_table1_early4.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_working_occ.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_early_comparison.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/fg_iv_effect_by_time_anyicu.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/thesis_spot_early/an_model_propensity_logistic.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/example_funnel_hazard_ratio.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/paper-spotepi.sublime-project",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.Rproj.user/802F9118/pcs/packages-pane.pper",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_table1_accept_compare.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/vcode.Rproj",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_icu_early4.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook_141017.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/fg_dead28_aps_severity.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook_141016.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/thesis_spot_early/an_model_early_semiparbivprobit.r",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/ts_baseline_site_chars.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_icu_accept.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/fg_icu_accept_by_age.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/an_inspect.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/an_tables_ccot.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.Rproj.user/802F9118/sdb/prop/AD9CBAB8",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/fg_map_early.do",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Abacus/Abacus.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Abacus.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Sublime Settings.sublime-settings",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/fg_iv_effect_by_time.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/fg_full_by_week.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_working_tails.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_working_sensitivity.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_working.sql",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_working.sh",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_working.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_units.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_survival.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_sites_outofsample.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_sites.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_preflight_occupancy_sensitivity.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_preflight_occupancy.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/cr_icubeds.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.Rhistory",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.RData",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.Rapp.history",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/.gitignore",
+		"/var/folders/6_/ff2775ts71ndh9qbcpm26wlr0000gn/T/com.freron.MailMate/edit/626205/message.eml.markdown",
+		"//",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/ts_table1_sites.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/paper-spotearly.sublime-project",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/paper-scratch.md",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/cr_admitted_pts.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/wr02_patients.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/fg_model_ward_survival_re.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/local/lib_phd/dictionary_checks.yml",
+		"/Users/steve/aor/project-academic/paper-spotearly/local/lib_phd/dictionary_corrections.yml",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/results-spotearly.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/labbook_140914.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_early_deferred_compare.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_biprobit_early.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/writing/paper-spotepi_text.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/readme.md",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_table1_early_compare.R",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_table1_icu_accept.R",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/steve/aor/project-academic/paper-spotearly/local/lib_phd/dictionary_tables.yml",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/wr06_iv.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_biprobit_accept.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_linear_accept.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/thesis_spot_early/an_model_iv_biprobit.r",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/thesis_spot_early/an_model_iv_linear_sens.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/an_fig_external_validity.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_biprobit.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/local/lib_usr/pyperclip.py",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/cr_working_sample.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/wr03_occupancy.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/post_norf_talk.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/post_mit_talk.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_model_iv_linear.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_sens_by_method_outcome.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/tb_baseline.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/test.do",
+		"/Users/steve/aor/project-academic/paper-spotearly/vcode/thesis_spot_early/an_model_propensity_ensemble.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/spot_ward/labbook_fig_show_risk_adjustment.do",
+		"/Users/steve/aor/project-academic/_presentations/140930_MAS ESICM - (SPOT)light - hot topics/vcode/fig_survival_early4_delay.do",
+		"/Users/steve/aor/project-academic/paper-spotepi/vcode/fg_hazard_and_survival_all.do",
+		"/Users/steve/aor/project-academic/_presentations/140930_MAS ESICM - (SPOT)light - hot topics/vcode/fig_survival_early4.do",
+		"/Users/steve/aor/readme-projects/talk-esicm2014-hot-topics.md",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"vcode/",
+			"<open folders>",
+			"/Users/Steve/Data/SPOT/vcode",
+			"procHeadsFinal.sql",
+			"",
+			"/Users/Steve/Data/SPOT/vcode",
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"day",
+			"align*",
+			"x",
+			"×",
+			"0",
+			"1",
+			"0",
+			"1",
+			"\\}",
+			"\\{",
+			"\\}",
+			"\\{",
+			"'",
+			"\\4",
+			"+ icu_recommend",
+			"icnarc0_c",
+			"_c",
+			"icu_accept",
+			"early4",
+			"icu_accept",
+			"icu_recommend",
+			"depvars",
+			"age80m",
+			"age80",
+			"Z",
+			"icu_accept",
+			"pdx",
+			"xb2",
+			"first",
+			"xb2",
+			"xb1",
+			"xb0",
+			"yhat_2D1.l",
+			"yhat_2D0.l",
+			"wdt.qm",
+			"link",
+			"age_c",
+			"m.spbp.accept",
+			"icnarc0_c",
+			"age_c",
+			"age",
+			"gg.accept.age",
+			"gg.q",
+			"age",
+			"wdt",
+			"<-",
+			"OR",
+			"eform",
+			"f.accept",
+			"icu_accept",
+			"accept.y.",
+			"room2",
+			"all",
+			"icu_ever",
+			"dead_ward",
+			"icu_ever",
+			"pct",
+			"r1",
+			"r2",
+			"%",
+			"recommend",
+			"accept",
+			"recommend",
+			"accept80",
+			"80",
+			"early4",
+			"age_k3",
+			"icu_accept",
+			"f.accept",
+			"icu_accept",
+			"%",
+			"age_k3",
+			"80",
+			"accept",
+			"accept80OR",
+			"accept",
+			"model_icu_accept",
+			".y.",
+			".y",
+			"time2icu",
+			".y",
+			"icnarc0",
+			"accept.y",
+			"early4.y",
+			"accept",
+			"e",
+			"accept",
+			"recommend.",
+			"accept",
+			"recommend.",
+			"recommend",
+			"v_dec",
+			"icu_accept",
+			"accept.icu",
+			"accept",
+			"m.xt",
+			"f.accept",
+			"icu_accept",
+			"tb_model_icu_accept",
+			"accept80CI",
+			"icnarc_sc",
+			"v_dis",
+			"m",
+			"sheet2",
+			"m.xt.fmt$p",
+			"''",
+			"as.numeric",
+			"U95",
+			"L95",
+			"OR",
+			"m.xt.fmt[[x]]",
+			"s1",
+			"icode",
+			"ccot_shift_pattern",
+			"gg.q",
+			"cccot_shift_pattern",
+			"glm",
+			"v_ccmds",
+			"room_cmp",
+			"dead90",
+			"SOFA",
+			"sofa",
+			"icnarc",
+			"order",
+			"abs(",
+			"%",
+			"icnarc",
+			"accept"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\\\%",
+			"\\%",
+			"%",
+			"\\\\\\%",
+			"\\%",
+			"{++estimated++} delta",
+			"",
+			"$2",
+			"$",
+			"$2",
+			"$",
+			"$2",
+			"$1",
+			"--",
+			"$u_midpoints",
+			"$c_midpoints",
+			".eps",
+			"Adjusted",
+			"Unadjusted",
+			"base",
+			"scale",
+			"pbcr_c",
+			"um_",
+			"cm_",
+			"rrt",
+			"Renal replacement therapy",
+			"rrt",
+			"model",
+			"up24",
+			"uperkg",
+			"ur_",
+			"$ml \\cdot min^1 \\cdot 1.73m^2$",
+			"nameUnit",
+			"lite_summ_tails",
+			"lite_summ_heads",
+			"direct_admx_match_pct",
+			"direct_admx_pct",
+			" \\",
+			"units_Final_lock",
+			"sites_Final_lock",
+			"the_3_tuple",
+			"lite_summ_monthly",
+			"temp_t_quality",
+			"site_quality_monthly",
+			"date_closed",
+			"date_opened",
+			"	SELECT\n		h.icode,",
+			"	h.nameSite as HeadsSite,\n		t.nameSite as TailsSite,\n		t.nameUnit,\n	",
+			"updateReportLite",
+			"t.elgCore, t.elgFirst",
+			"t.elgCore, t.elgFirst, t.elgAge,",
+			"		t.elgAll, t.elgCore, t.elgFirst, t.elgAge, t.elgCPR, t.elgEmx, t.elgWard, t.elgOWard, t.elgTrans, t.elgThtr, t.elgHDU ,\n",
+			"	elgAll, elgCore, elgFirst, elgAge, elgCPR, elgEmx, elgWard, elgOWard, elgTrans, elgThtr, elgHDU , \n",
+			"matchPossTransfer",
+			"BETWEEN -168 AND 336",
+			"matchPossPcode",
+			"matchPossDoB"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 104.0
+	},
+	"output.git-checkout":
+	{
+		"height": 104.0
+	},
+	"output.git-commit":
+	{
+		"height": 104.0
+	},
+	"output.git-init":
+	{
+		"height": 104.0
+	},
+	"output.git-pull":
+	{
+		"height": 104.0
+	},
+	"output.git-push":
+	{
+		"height": 104.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "icmtips.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/aor/project-training/pgc-maths/math_probability/assignments/p-ass0-answers.md"
+			],
+			[
+				"ivl",
+				"vcode/tb_model_iv_linear_accept.do"
+			],
+			[
+				"dic",
+				"local/lib_phd/dictionary_fields.yml"
+			],
+			[
+				"res",
+				"vcode/results-spotearly.do"
+			],
+			[
+				"pref",
+				"vcode/cr_preflight.do"
+			],
+			[
+				"scr",
+				"vcode/paper-scratch.rmd"
+			],
+			[
+				"capti",
+				"vcode/paper-spotearly_captions.md"
+			],
+			[
+				"scra",
+				"vcode/paper-scratch.rmd"
+			],
+			[
+				"pa",
+				"vcode/paper-spotearly_text.md"
+			],
+			[
+				"occu.r",
+				"vcode/tb_table1_occupancy_effects.R"
+			],
+			[
+				"tabl",
+				"vcode/labbook_table1.R"
+			],
+			[
+				"table1",
+				"vcode/tb_table1_all.R"
+			],
+			[
+				"occ.r",
+				"vcode/tb_table1_occupancy_effects.R"
+			],
+			[
+				"early4",
+				"vcode/tb_table1_early4.R"
+			],
+			[
+				"pap",
+				"vcode/paper-spotearly_text.md"
+			],
+			[
+				"dicton",
+				"local/lib_phd/dictionary_fields.yml"
+			],
+			[
+				"caption",
+				"vcode/paper-spotearly_captions.md"
+			],
+			[
+				"accept",
+				"vcode/tb_model_icu_accept.R"
+			],
+			[
+				"acc",
+				"vcode/tb_table1_accept_compare.R"
+			],
+			[
+				"labb",
+				"vcode/labbook.do"
+			],
+			[
+				"prefl",
+				"vcode/cr_preflight.do"
+			],
+			[
+				"wr",
+				"vcode/wr03_occupancy.do"
+			],
+			[
+				"cr_",
+				"vcode/cr_preflight.do"
+			],
+			[
+				"dictonf",
+				"local/lib_phd/dictionary_fields.yml"
+			],
+			[
+				"tb",
+				"vcode/tb_table1_all.R"
+			],
+			[
+				"tbeal",
+				"vcode/tb_table1_early4.R"
+			],
+			[
+				"dict",
+				"local/lib_phd/dictionary_fields.yml"
+			],
+			[
+				"prel",
+				"vcode/cr_preflight.do"
+			],
+			[
+				"iv",
+				"vcode/tb_model_iv_biprobit.do"
+			],
+			[
+				"linear",
+				"vcode/tb_model_iv_linear.do"
+			],
+			[
+				"rea",
+				"vcode/readme.md"
+			],
+			[
+				"tbocc",
+				"vcode/tb_occupancy_effects.do"
+			],
+			[
+				"bipr",
+				"vcode/tb_model_iv_biprobit.do"
+			],
+			[
+				"lab",
+				"vcode/labbook.do"
+			],
+			[
+				"rug",
+				"stata/rug.ado"
+			],
+			[
+				"pando",
+				"Packages/Pandoc (Markdown)/PandocRender.py"
+			],
+			[
+				"co",
+				"procMyCrCoreTables.sql"
+			],
+			[
+				"tin",
+				"procMyCrTailsInCurrent.sql"
+			],
+			[
+				"pro",
+				"procMyCrMyTails.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/aor/project-academic/paper-spotearly/vcode/paper-spotearly.sublime-project"
+			],
+			[
+				"lea",
+				"~/aor/project-me/learnR/vcode/learnr.sublime-project"
+			],
+			[
+				"id",
+				"~/aor/project-academic/collab-jp/vcode/collab-jp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -35,3 +35,7 @@ More easily, stay with Lead II and move RA and indifferent electrodes to manubri
 
 via Quyyumi, Brit Heart J, 1986
 
+## Tape or tie the LMA?
+
+LMAs designed to require a small amount of downward pressure so tip sits in oesophageal sphincter and forms seal, ideally then tape LMAs don't tie but note the LMA supreme has a lip designed so that tying pushes the LMA down and improves seal.
+
