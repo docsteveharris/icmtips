@@ -39,6 +39,7 @@ mainmatter.txt
 61_fluid_mx.md
 
 # Drugs
+70_drug_tips.md
 
 
 

@@ -91,6 +91,17 @@ There are some widely recognised principles for the use of mechanical ventilatio
 - [Oddo M, Feihl F, Schaller M-D et al. Management of mechanical ventilation in acute severe asthma: practical aspects. *Intensive Care Med*. 2006;**32**:501-510.](http://dx.doi.org/10.1007/s00134-005-0045-x)
 - [Leatherman JWJW, McArthur CC, Shapiro RSRS. Effect of prolongation of expiratory time on dynamic hyperinflation in mechanically ventilated patients with severe asthma. *Crit Care Med*. 2004;**32**:1542-1545.](http://dx.doi.org/10.1097/01.CCM.0000130993.43076.20)
 
+## Is there evidence to support the use of neuromuscular blocking drugs in ARDS?
+
+Yes.
+
+- [Papazian L, Forel JM, Gacouin A et al. Neuromuscular blockers in early acute respiratory distress syndrome. *N Engl J Med*. 2010;**363**:1107-1116.](http://dx.doi.org/10.1056/NEJMoa1005372)
+    - early brief (48h) use of atracurium in patients with severe ARDS
+    - roughly 10% ARR with NMB from 45% 
+    - very few proned
+    - half received steroids for shock
+    - high pneumothorax rate 12% in controls!
+
 ## Weaning pearls
 
 - Try alternating periods of weaning with periods of cuff-down (with pressure support and PEEP) to give patients a voice, and a chance to re-learn their upper airway reflexes
