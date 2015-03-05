@@ -10,3 +10,4 @@ For example, it doesn't make sense to cover topics that are well covered by reso
 - possible themes
     + write this as for practical intro to ITU course at UCLH
     + pearls in the style of summarized notes from papers
+    + pick key papers, identify the qn they ask, and then summarise the paper and the context for each (and categorise by theme)
