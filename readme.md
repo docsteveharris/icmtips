@@ -6,3 +6,7 @@ For example, it doesn't make sense to cover topics that are well covered by reso
 ## Notes
 
 - try and summarise topics that are key to understanding the practice of ICM; and do this, even if it is done better elsewhere; the aim should be to collate these key themes
+
+- possible themes
+    + write this as for practical intro to ITU course at UCLH
+    + pearls in the style of summarized notes from papers

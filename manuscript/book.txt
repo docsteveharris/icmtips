@@ -31,11 +31,16 @@ mainmatter.txt
 41_ventilation.md
 42_cardiovascular_support.md
 43_antibiotics.md
+44_rrt.md
+
 
 # Clincal scenarios
-31_clinical_scenarios.md
+60_clinical_scenarios.md
+61_fluid_mx.md
 
 # Drugs
+
+
 
 # Miscellaneous pearls
 # 80's
