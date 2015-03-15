@@ -14,6 +14,15 @@ Simple formulae OK; complicated formulae or indirect calorimetry do not appear t
 #### Evidence
 
 
+[The National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. Initial Trophic vs Full Enteral Feeding in Patients With Acute Lung Injury: The EDEN Randomized Trial. JAMA : the journal of the American Medical Association. 2012;307(8):795-803. doi:10.1001/jama.2012.137.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743415/)
+	- EDEN trial by ARDS network in 1000 ventilated adults with ALI diagnosed within 3d
+    - Full vs trophic feeding started within 48h and continued for 6d
+    	- Full feed:  25 to 30 kcal/kg per day of nonprotein calories and 1.2 to 1.6 g/kg per day of protein; achieved around 80% of caloric targets 
+        - Trophic: 20kcal/h; achieved around 20% of caloric targets 
+    - No difference in ventilator free days, infection or 60 day mortality but less GI intolerance in trophic group (and maybe less vasopressor use, lower PaCO2 and bicarb)
+    - Note that mean weight and BMI were 85kg and 30 kg/m2 respectively so not clear that these results can be applied to underweight patients
+    - Note that first week cumulative fluid balance around neutral in the trophic group but full group run similarly dry with mean cumulative balance of 2000ml total
+
 [Casaer MPMP, Mesotten DD, Hermans GG et al. Early versus late parenteral nutrition in critically ill adults. *New Engl J Med*. 2011;**365**:506-517.](http://dx.doi.org/10.1056/NEJMoa1102662)
     - EPanIC
     - 2007-2010 European RCT approx 5000 patients
