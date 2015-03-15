@@ -9,7 +9,7 @@
 ## How common is fungal infection in critical care?
 
 - 19% of patients with infection in critical care using point prevalence data in the [EPIC II study](Vincent J, Rello J, Marshall J, et al. International Study of the Prevalence and Outcomes of Infection in Intensive Care Units. JAMA. 2009;302(21):2323-2329. doi:10.1001/jama.2009.1754.) but very clear problems with methodology ascertainment bias
-- [FIRE](http://www.ncbi.nlm.nih.gov/pubmed/23369845)
+- [FIRE](http://www.ncbi.nlm.nih.gov/pubmed/23369845) suggested a 0.6% incidence in highly representative sample of non-neutropaenic adult patients
 
 
 ## Discuss the microbiology of community acquired pneumonia?
