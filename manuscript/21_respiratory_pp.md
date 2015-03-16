@@ -93,7 +93,7 @@ There are some widely recognised principles for the use of mechanical ventilatio
 
 ## Is there evidence to support the use of neuromuscular blocking drugs in ARDS?
 
-Yes.
+Yes. However, the issue is far from clear. There has long been the impression that neuromosuclar blockers (NMBs) increase the risk of critical care weakness, and increased use of these drugs (and sedation) was requires with high frequency ventilation in the OSCILLATE trial was associated with increased mortality.
 
 - [Papazian L, Forel JM, Gacouin A et al. Neuromuscular blockers in early acute respiratory distress syndrome. *N Engl J Med*. 2010;**363**:1107-1116.](http://dx.doi.org/10.1056/NEJMoa1005372)
     - early brief (48h) use of atracurium in patients with severe ARDS

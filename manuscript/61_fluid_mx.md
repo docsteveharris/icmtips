@@ -1,6 +1,15 @@
 {:: encoding="utf-8" /}
 
 
+## What is the history of intravenous fluid resuscitation?
+
+These references have been extracted from [Myburgh &  Mythen](Myburgh JA, Mythen MG. Resuscitation fluids. N Engl J Med 2013; 369, 1243-1251.).
+
+- 1832: [Lewins initial report of using saline injections for cholera victims](Lewins R. Saline injections into the veins. London Medical Gazette. April 7, 1832:257-68.) 
+- 1882: [Normal saline (incorrectly) defined as that which matched the saline concentration of blood](Awad S, Allison SP, Lobo DN. The history of 0.9% saline. Clin Nutr 2008;27: 179-88.)
+- 1885: [Hartmann's solution developed from Ringer's lactate](Lee JA. Sydney Ringer (1834-1910) and Alexis Hartmann (1898-1964). Anaesthesia 1981;36:1115-21.)
+
+
 ## Excessive fluid loading in theatre can be harmful
 
 Restrive regimen

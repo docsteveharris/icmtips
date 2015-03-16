@@ -9,5 +9,6 @@ For example, it doesn't make sense to cover topics that are well covered by reso
 
 - possible themes
     + write this as for practical intro to ITU course at UCLH
+        + add in recipe section or write the entire thing as a collection of ICU recipes for the typical patient; start with a clinical vignettes (a la FICM case summaries)
     + pearls in the style of summarized notes from papers
     + pick key papers, identify the qn they ask, and then summarise the paper and the context for each (and categorise by theme)
