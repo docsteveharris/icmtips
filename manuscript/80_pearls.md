@@ -58,3 +58,53 @@ Elevated nt-proBNP is seen in both patients with septic shock, and in those with
 [Rudiger A, Gasser S, Fischler M et al. Comparable increase of B-type natriuretic peptide and amino-terminal pro-B-type natriuretic peptide levels in patients with severe sepsis, septic shock, and acute heart failure. *Crit Care Med*. 2006;**34**:2140-2144.](http://dx.doi.org/10.1097/01.CCM.0000229144.97624.90)
 
 
+## Tips on using a chest x-ray for the diagnosis of pulmonary oedema
+
+I struggle with this one. There is a nice exposition at [radiology assistant](http://www.radiologyassistant.nl/en/p4c132f36513d4/chest-x-ray-heart-failure.html).
+
+Note
+- supine chest films will show re-distribution of blood (upper lobe diversion) in the same way as high left atrial pressure does
+- use the artery to bronchus ratio in an erect film
+    + should be <1 above the hilum
+    + should be <1 below the hilum
+- look for Kerley-B lines. Because these represent oedema in the interstitium between the secondary lobules then these are not acutely dependent on the patient's position
+- look for widening of the vascular pedicle (normal <60mm on a PA film in 90% of films) and an enlarged azygous vein
+
+
+## How do I start to read an MRI?
+
+Try and identify the parapharyngeal space because this is full of fat and is bright on T1 and dark on T2 and is the most helpful landmark; doesn't contain anything important itself. T2 vs T1 - best to look at white matter b/c CSF can be misleading; grey matter is bright in t2
+
+### T2
+
+- Pathology is bright
+- Water is bright
+- CSF is bright
+- Fat is bright
+- Flowing blood is bright
+
+### STIR
+
+- T2 with suppressed fat
+
+### T1
+
+- Pathology is mostly dark
+- Gadolinium is bright
+- Fat is bright
+- CSF is dark
+
+
+## Tricks for understanding and managing hypo- and hyper-natraemia
+
+If the kidney's cannot concentrate urine and retain water (DI) ...
+
+> maximally dilute urine, whether resulting from untreated diabetes insipidus, spontaneous recovery from hyponatremia, or administration of a vasopressin antagonist, will increase the plasma sodium concentration by about 2.5 mmol per liter per hour.
+
+If the kidney's cannot excrete water (i.e. SIADH) ...
+
+> In the absence of urinary loss of water, 1 ml of 3% saline per kilogram of body weight will increase the plasma sodium concentration by about 1 mmol per liter.
+
+[Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. *N Engl J Med*. 2015;**372**:55-65.](http://dx.doi.org/10.1056/NEJMra1404489)
+
+

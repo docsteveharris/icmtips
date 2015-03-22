@@ -26,9 +26,9 @@ A list of evidence based guidance
 
 - Zero is set at the height of the insertion point
 - Set pressure to 10-20cm H2O
-- Maximum drainage rate is 20-30 ml/hr  which matches CSF production 
+- Maximum drainage rate is 20-30 ml/hr  which matches CSF production
 - Should be removed within 48 hours
-- Indicated for supra renal aortic aneurysm repair 
+- Indicated for supra renal aortic aneurysm repair
 
 ## Can you recommend any good references for learning about the EEG in neuro-critical care?
 
@@ -43,3 +43,31 @@ Important points from the article include
 ## Guidelines for the management of intra-cerebral haemorrhage
 
 See [Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association.](http://www.ncbi.nlm.nih.gov/pubmed/20651276)
+
+
+## Summarise the history surrounding the understanding of ICU acquired weakness
+
+- 1977 - myopathy described following steroids and neuromuscular blockers for patient with asthma
+- Bolton desceribed polyneuropathy in patients in ICU; primarily axonal and motor, no demyelination, decrease in anterior horn cells and reduction in amplitute of compound muscle action potentials (CMAPs)
+
+Characteristics
+- proximal > distal
+- CK normal
+- spares face and ocular muscles
+- may involve respiratory muscles
+
+Distinguish critical illness myopathy and critical illness polyneuropathy on the basis of sensory nerve involvement (reduced sensory nerve action potential - SNAP)
+
+Pathophysiology
+- microvascular disturbance and neuronal damage
+- hyperglycaemia
+- channelopathies (sodium)
+- muscle catabolism
+- mitochondrial damage
+
+Risk factors
+- severity of illness
+- steroids ?but some evidence of protection too!?
+- neuromuscular blocking drugs (NMB) in patients with asthma (although note improved survival in ARDS)
+- immobility
+- females >> males

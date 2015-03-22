@@ -26,5 +26,17 @@
 - [Normal ECG complex](http://lifeinthefastlane.com/ecg-library/basics/u-wave/)
 - de Winter's T-waves  via [Life in the Fastlane](http://lifeinthefastlane.com/winter-is-coming/)
 
+## Benign Early Repolarisaton
+
+'ST elevation in a young patient without chest pain'
+
+Tips
+- notched, 'fish-hook' J-point
+- asymmetrical T-waves that are concordant with respect to the QRS complex
+- ST elevation to T-wave height ratio < 25% (if higher, think pericarditis)
+- rare in the over-50's so be very cautious if entertaining such a diagnosis
+
+- see [](http://lifeinthefastlane.com/ecg-library/benign-early-repolarisation/)
+
 
 

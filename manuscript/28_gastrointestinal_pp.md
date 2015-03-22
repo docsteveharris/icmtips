@@ -26,6 +26,13 @@ The following points are noted:
 - ERCP should be performed within 24 hours for patients with AP and cholangitis; pancreatic stents and/or NSAIDs should be used to reduce the risk of post-ERCP pancreatitis
 - Enteral feeding should be started, even in severe AP. Parenteral feeding should be avoided. There is no evidence to favour nasojejunal (NJ) over nasogastric (NG) feeding.
 
+### References 
+
+- [Acute pancreatitis radiology](http://www.radiologyassistant.nl/en/p47a07dcd6498c/pancreas-acute-pancreatitis.html)
+    + compare the attenuation of the pancreas and the spleen: they should be similar. In acute pancreatitis, after 72 hours, one would expect there to be reduced contrast in the pancreas.
+    + important to realise that it is impossible to determine whether the cyst contents are solid (walled off necrosis WON) or liquid (true pseudocyst). Since only the latter are amenable to drainage, then persistence of the mass after attempted drainage may warrant surgery (endoscopic as first line?)
+    + use FNA do distinguish infected versus sterile collections, and to define the microbiology
+
 
 ## How do you defend your approach to early feeding in acute pancreatitis?
 

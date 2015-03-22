@@ -1,11 +1,21 @@
 {:: encoding="utf-8" /}
 
+## How do you manage severe hyponatraemia?
+
+If there are neurological symptoms then rapid correction is justified; however, only a small rapid correction is warranted.
+
+> An increase in the plasma sodium concentration of 4 to 6 mmol per liter is enough to reverse impending brain herniation or stop active seizures in patients with severe acute hyponatremia. Such an increase can be reliably achieved with 100-ml bolus infusions of 3% saline (2 ml per kilogram in small patients), administered at 10-minute intervals to a total of three doses, if necessary, to control symptoms.39
+
+> If the plasma sodium concentration is less than 120 mmol per liter, or if there are risk factors for osmotic demyelination, correction of the plasma sodium concentration by more than 8 mmol per liter per day should be meticulously avoided through replacement of lost water or prevention of water loss with desmopressin, a synthetic vasopressin.
+
+- [Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. *N Engl J Med*. 2015;**372**:55-65.](http://dx.doi.org/10.1056/NEJMra1404489)
+
 
 ## What is the history of intravenous fluid resuscitation?
 
 These references have been extracted from [Myburgh &  Mythen](Myburgh JA, Mythen MG. Resuscitation fluids. N Engl J Med 2013; 369, 1243-1251.).
 
-- 1832: [Lewins initial report of using saline injections for cholera victims](Lewins R. Saline injections into the veins. London Medical Gazette. April 7, 1832:257-68.) 
+- 1832: [Lewins initial report of using saline injections for cholera victims](Lewins R. Saline injections into the veins. London Medical Gazette. April 7, 1832:257-68.)
 - 1882: [Normal saline (incorrectly) defined as that which matched the saline concentration of blood](Awad S, Allison SP, Lobo DN. The history of 0.9% saline. Clin Nutr 2008;27: 179-88.)
 - 1885: [Hartmann's solution developed from Ringer's lactate](Lee JA. Sydney Ringer (1834-1910) and Alexis Hartmann (1898-1964). Anaesthesia 1981;36:1115-21.)
 

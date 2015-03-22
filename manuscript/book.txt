@@ -39,9 +39,13 @@ mainmatter.txt
 60_clinical_scenarios.md
 61_fluid_mx.md
 
+
 # Drugs
 70_drug_tips.md
 72_cardiovascular_rx.md
+
+79_toxicology.md
+
 
 
 

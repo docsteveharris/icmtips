@@ -32,6 +32,11 @@ Think anterior and posterior in terms of silhouettes
 - left upper lobe is anterior
 - left lower lobe posterior
 
+## Abdominal radiographs
+
+- large bowel should be less than 9cm, peripheral, haustra which do not cross the bowel
+- small bowel should be less than 3cm, central, valvulae conniventes are close together and cross the bowel
+
 ## CT chest
 
 Set-up your windows by using Hounsfield units:
